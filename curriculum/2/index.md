@@ -43,7 +43,3 @@
   * [Selection Sort](https://ap.cs50.school/assets/pdfs/selection_sort.pdf)
   * [Typecasting](https://ap.cs50.school/assets/pdfs/typecasting.pdf)
 
-* After completion of this chapter, teachers can assign:
-  * topic questions #xyz
-  * ...
-  * ...
